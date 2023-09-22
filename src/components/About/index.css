@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.about-bg-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.about-navbar-bg-dark {
+  background-color: #000000;
+}
+.about-navbar-bg-light {
+  background-color: #ffffff;
+}
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.about-image {
+  height: 125px;
+}
+.about-heading {
+  font-family: 'Roboto';
+  font-size: 47px;
+}
+.about-navbar-text-light {
+  color: #ffffff;
+}
+.about-navbar-text-dark {
+  color: #171f46;
+}

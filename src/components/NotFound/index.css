@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.not-found-app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.not-found-bg-dark {
+  background-color: #000000;
+}
+.not-found-bg-light {
+  background-color: #ffffff;
+}
+.not-found-responsive-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 70vh;
+  padding: 20px;
+}
+.not-found-img {
+  width: 250px;
+}
